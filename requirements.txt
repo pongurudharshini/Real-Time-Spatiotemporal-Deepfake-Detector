@@ -3,10 +3,6 @@ streamlit-webrtc
 opencv-python-headless
 torch
 torchvision
-transformers
 mediapipe
 pandas
-numpy
-pillow
 av
-plotly
